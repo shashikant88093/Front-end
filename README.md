@@ -4,9 +4,9 @@
 
 ### ES6+ Features:
 
-- [ ] - Arrow
-- [ ] -  functions,
-- [ ] -  destructuring, 
+- [x] - Arrow
+- [x] -  functions,
+- [x] -  destructuring, 
 - [ ] - template literals
 - [ ] - Default/rest/spread operators
 - [ ] - Map, Set, WeakMap, WeakSet

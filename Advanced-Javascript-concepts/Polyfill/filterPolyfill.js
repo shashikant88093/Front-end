@@ -12,7 +12,7 @@ Array.prototype.myFilter = function(cb){
     // console.log(this)
   let res = []
     for(let i=0;i<this.length;i++){
-        if(cb(this[i])){
+        if(cb(this[i]) == true){
             res.push(this[i])
         }
     }
@@ -25,7 +25,7 @@ Array.prototype.myFilter = function(cb){
 arr.myFilter((acc)=> 
 {
     if(acc>2){
-        console.log(acc)
+        console.log(acc)  
 
     }
 })

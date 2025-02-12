@@ -1,7 +1,6 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
-const Card = () => {
+const Card: React.FC = () => {
     return (
         <>
             <p>Hi Bro How are you</p>
@@ -9,9 +8,4 @@ const Card = () => {
     );
 }
 
-export default Card
-
-
-Card.PropTypes = {
-
-};
+export default Card; 

@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  flex-direction: column;
+  place-content: center;
+  margin: 10%;
+}
+
+p {
+  text-align: center;
+}

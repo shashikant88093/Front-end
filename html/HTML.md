@@ -1,11 +1,11 @@
 # HTML tag
+
 - <tagname attribute="value">content</tagname>
 
 - <!DOCTYPE html> This explain the version of html tags the current is html5
 - <title> this provide name to page  and also used for search result  in many  search engine
   
-
-## Semantic HTML 
+## Semantic HTML
 
 - HTMl that clearly describles the content of the page. HTML loses it semantic meaning when tags are misused, or generic tags (namely <div> and <span>) are overused instead of semantic tags.
 
@@ -18,23 +18,20 @@
 - <aside> : Non-vital content indirectly related to main content. The page would make sense without this content.
 - <footer> : Footer of the document, oftentimes conatining copyright information.
 
-
 - ***alt** in img tags is used for screen reading or anytime image cannot display view that time
 - ***<pre>*** is used to preserve the white space when identation and space need to be preserved
 
+## Table
 
-## Table 
-
-- <table> 
-- There are a variety of tags associated with tables, with these being some of the most comman:
-- <tr> : A single row in the table
+- <table>
+- There are a variety of tags associated with tables, with these being some of the most comman.
+- <tr> : A single row in the table.
 - <th> : A heading in the table. This should be used with the ***scope*** attribute of either  ***row*** or ***col*** to choose what the content is a heading for.
 - <td> : A single piece of data in the table, also referred to as a cell.
 - <thead> : A grouping tag for heading of table , usually containing a single <tr> with column headings.
 - <tbody> : A grouping tag for body of table , used for conating the primary rows of data.
 - <tfoot> : A grouping tag for the footer of the table.
 - <caption> : A caption or title for the table.
-
 
 ## Meta tags
 

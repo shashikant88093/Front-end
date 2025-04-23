@@ -40,35 +40,3 @@
 .read-the-docs {
   color: #888;
 }
-
-.dark {
-  color: #888;
-}
-.dark a {
-  color: #888;
-}
-.dark a:hover {
-  color: #aaa;
-}
-.dark h1 {
-  color: #fff;
-}
-.dark button {
-  background-color: #1a1a1a;
-}
-.dark button:hover {
-  background-color: #242424;
-}
-.dark button:focus,
-.dark button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
-}
-.dark .logo {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.dark .logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
-.dark .logo.react {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
